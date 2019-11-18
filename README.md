@@ -1,2 +1,2 @@
-# ScrumGang-Metrics-App
-This program displays sprint metrics for a scrum project.
+# spring-boot-security
+Spring boot security with H2 user database
